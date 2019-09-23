@@ -9,8 +9,8 @@ final class CountryTableViewCell: UITableViewCell {
     
     // MARK: Initialize
     
-    override init(style: UITableViewCellStyle, reuseIdentifier: String?) {
-        super.init(style: .default, reuseIdentifier: reuseIdentifier)
+    override init(style: UITableViewCell.CellStyle, reuseIdentifier: String?) {
+        super.init(style: style, reuseIdentifier: reuseIdentifier)
         selectionStyle = .none
         backgroundColor = nil
         contentView.backgroundColor = nil
