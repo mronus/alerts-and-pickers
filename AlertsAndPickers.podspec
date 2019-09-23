@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = 'AlertsAndPickers'
-  s.version      = '1.4.1'
+  s.version      = '1.5.0'
   s.summary      = 'Advanced usage of native UIAlertController with TextField, TextView, DatePicker, PickerView, TableView, CollectionView and MapView.'
   s.homepage     = 'https://github.com/mronus/alerts-and-pickers'
   s.license      = 'MIT'
